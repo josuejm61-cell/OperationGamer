@@ -1,0 +1,2 @@
+
+My name is Josue Mondragon I am 28 years old and have a family of 4. I live in South Texas and I am 3rd year student. I am excited to be in this journey, I love to play games, spend time with my family, and I have a 8--5 job (yupee). Nonetheless I am looking forward for all the things I am learning and will learn. To a nice semester. 
