@@ -1,9 +1,10 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: The Page of Josue Mondragon
 ---
-## The index page
+## Introduction
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Hello, My name is Josue Mondragon I am glad I am starting the next phase of classes. I am excited that I am more closer to finishing and very excited to learn and broaden my skills. 
+
 
 ## Editing pages
 
