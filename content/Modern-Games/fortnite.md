@@ -3,7 +3,7 @@
 
 ## Overview
 
-I have been playing Fortnite for about two years, and it is one of the games I play the most with my friends. I like that every match feels different because you never know where you'll land, what weapons you'll find, or who you'll run into. The game is always getting updates, so there is usually something new to check out, like new locations, game modes, or characters. Even after playing for a while, it still feels fun because there is always a reason to come back.
+I have been playing Fortnite for about 7 years, and it is one of the games I play the most with my friends. I like that every match feels different because you never know where you'll land, what weapons you'll find, or who you'll run into. The game is always getting updates, so there is usually something new to check out, like new locations, game modes, or characters. Even after playing for a while, it still feels fun because there is always a reason to come back.
 
 
 ## Gameplay
