@@ -26,7 +26,7 @@ My favorite part of Mario Kart World is playing multiplayer. Racing against frie
 > "Mario Kart World is one of those games where every race can end differently, which keeps it fun."
 
 #### Image
-![Mario Kart World gameplay](images/mario-kart-world.jpg)
+![mario-kart-wolrd](images/mario-kart-world.jpg)
 The image above shows a race taking place in Mario Kart World.
 
 ## Related Games
