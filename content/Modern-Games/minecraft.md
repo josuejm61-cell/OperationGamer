@@ -77,8 +77,6 @@ One of my favorite parts of Minecraft is that every world feels different. Since
 
 #### Image
 
-  
-
 ![[minecraft.jpg]]
 
   
