@@ -79,7 +79,7 @@ One of my favorite parts of Minecraft is that every world feels different. Since
 
   
 
-![minecraft](images/minecraft.jpg)
+![[minecraft.jpg]]
 
   
 
