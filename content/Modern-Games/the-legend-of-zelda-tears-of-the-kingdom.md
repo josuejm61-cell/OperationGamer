@@ -27,7 +27,7 @@ My favorite part of the game is exploring. I like finding hidden locations and d
 
 #### Image
 
-![The Legend of Zelda: Tears of the Kingdom gameplay](images/tears-of-the-kingdom.jpg)
+![tears-of-the-kingdom](images/tears-of-the-kingdom.jpg)
 The image above shows Link exploring the world of Hyrule.
 
 ## Related Games
