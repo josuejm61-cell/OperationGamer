@@ -27,7 +27,7 @@ My favorite part of Destiny 2 is collecting new weapons and armor. I also like t
 
 #### Image
 
-![Destiny 2 gameplay](images/destiny2.jpg)
+![destiny2](images/destiny2.jpg)
 The image above shows a Guardian exploring one of Destiny 2's planets.
 
 ## Related Games
