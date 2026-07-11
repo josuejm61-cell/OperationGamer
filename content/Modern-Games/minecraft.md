@@ -45,7 +45,7 @@ Some tips for Minecraft is to stay away at night, but we knew that and definitel
 
   
 
-I have been playing Minecraft for about two years, and it has become one of my favorite games because there is always something new to do. Unlike a lot of games that have one main story, Minecraft lets you decide what you want to accomplish. Some days I spend time building a large house or creating a village, while other times I focus on surviving the night and gathering resources. I also enjoy playing with friends because working together makes building bigger projects and exploring caves much more fun.
+I have been playing Minecraft for about 10 years, and it has become one of my favorite games because there is always something new to do. Unlike a lot of games that have one main story, Minecraft lets you decide what you want to accomplish. Some days I spend time building a large house or creating a village, while other times I focus on surviving the night and gathering resources. I also enjoy playing with friends because working together makes building bigger projects and exploring caves much more fun.
 
   
 
