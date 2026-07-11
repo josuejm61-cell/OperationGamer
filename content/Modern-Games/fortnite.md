@@ -30,7 +30,6 @@ My favorite part of Fortnite is playing with friends. We usually work together, 
 
 ![Fortnite gameplay](images/fortnite.jpg)
 
-
 ## Related Games
 
 Fortnite is more competitive than [[minecraft]], but both games let players be creative in different ways. If I want a more relaxed experience, I usually play [[minecraft]]. When I want to explore a huge open world instead of competing against other players, I like playing [[the-legend-of-zelda-tears-of-the-kingdom]].
