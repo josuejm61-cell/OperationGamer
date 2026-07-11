@@ -27,8 +27,7 @@ My favorite part of Fortnite is playing with friends. We usually work together, 
 > "Fortnite stays fun because every match is different, and there is always something new to try."
 
 #### Image
-
-![Fortnite gameplay](images/fortnite.jpg)
+![fortnite.md](images/fortnite.jpg)
 
 ## Related Games
 
