@@ -1,3 +1,2 @@
 
-
-![[contentassetlegend-of-zelda-tears.jpg]]
+![[legend-of-zelda-tears.jpg]]
