@@ -35,3 +35,6 @@ The image above shows Link exploring the world of Hyrule.
 If I want a game with more action and teamwork, I usually play [[destiny2]]. When I feel like building and being creative, I enjoy playing [[minecraft]]. Tears of the Kingdom is different because it focuses on exploration, puzzles, and adventure instead of competition.
 
 
+## Official Guide/ Article 
+
+I found this PDF to be a helpful reference for learning more about the game and its world. ![[legend-of-zelda-tears.pdf]]
