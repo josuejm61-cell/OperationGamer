@@ -38,3 +38,11 @@ If I want a game with more action and teamwork, I usually play [[destiny2]]. Whe
 ## Official Guide/ Article 
 
 I found this PDF to be a helpful reference for learning more about the game and its world. ![[legend-of-zelda-tears.pdf]]
+
+
+
+
+### Here is another picture of the game
+
+
+![[contentassetlegend-of-zelda-tears.jpg]]
