@@ -1,4 +1,10 @@
+---
+title: Destiny 2
+date: 2026-07-24
+---
+
 # Destiny 2
+
 
 ## Overview
 

@@ -1,10 +1,9 @@
-# MINECRAFT
-
-  ---
+---
 title: Minecraft
 date: 2026-07-24
 ---
 
+# Minecraft
 
 ## Gameplay
 

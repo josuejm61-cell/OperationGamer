@@ -1,4 +1,10 @@
+---
+title: Mario Kart World
+date: 2026-07-24
+---
+
 # Mario Kart World
+
 
 ## Overview
 

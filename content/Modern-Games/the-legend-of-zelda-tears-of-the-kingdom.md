@@ -1,3 +1,9 @@
+---
+title: "The Legend of Zelda: Tears of the Kingdom"
+date: 2026-07-24
+---
+
+
 # The Legend of Zelda: Tears of the Kingdom
 
 ## Overview
