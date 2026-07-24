@@ -1,31 +1,32 @@
 ---
 title: My Popular Liked Games
 ---
-
+---
 title: Operation Gamer
 date: 2026-07-24
 ---
 
-# Operation Gamer
+# 🎮 Operation Gamer
 
-Welcome to Operation Gamer, my gaming knowledge base.
+Welcome to **Operation Gamer**, my gaming knowledge base.
 
 ## Introduction
 
-Hello, My name is Josue Mondragon I am glad I am starting the next phase of classes. I am excited that I am more closer to finishing and very excited to learn and broaden my skills. Here I will introduce some games that I like and as well as consoles that I have and like. 
+Hello! My name is **Josue Mondragon**, and welcome to my gaming knowledge base. I created this website to organize information about video games, gaming consoles, genres, developers, and gaming history. Throughout this site, you can explore both modern and classic games, learn about different gaming genres, discover the companies behind popular titles, and read about important moments in gaming history. I hope this knowledge base is easy to navigate and enjoyable to explore.
 
+---
 
 ## Main Categories
 
-- [[game-genres/index|Game Genres]]
-- [[Game-Consoles/index|Game Consoles]]
-- [[classic-games/index|Classic Games]]
-- [[Modern-Games/index|Modern Games]]
-- [[game-developers/index|Game Developers]]
-- [[gaming-history/index|Gaming History]]
+- [[Modern-Games/index|🎮 Modern Games]]
+- [[Classic-Games/index|🕹️ Classic Games]]
+- [[Game-Genres/index|🎲 Game Genres]]
+- [[Game-Consoles/index|🎮 Game Consoles]]
+- [[Game-Developers/index|🏢 Game Developers]]
+- [[Gaming-History/index|📜 Gaming History]]
 
-
+---
 
 ## Other Pages
 
-- [[references|References]]
+- [[references|📚 References]]
