@@ -5,39 +5,66 @@ date: 2026-07-24
 
 # Fortnite
 
-
 ## Overview
 
-I have been playing Fortnite for about 7 years, and it is one of the games I play the most with my friends. I like that every match feels different because you never know where you'll land, what weapons you'll find, or who you'll run into. The game is always getting updates, so there is usually something new to check out, like new locations, game modes, or characters. Even after playing for a while, it still feels fun because there is always a reason to come back.
+Fortnite is a popular online multiplayer game developed by **Epic Games**. It is best known for its Battle Royale mode, where 100 players compete to be the last person or team standing. The game is constantly updated with new seasons, maps, and special events, which keeps the gameplay fresh and exciting.
 
+---
 
 ## Gameplay
 
-### Battle Royale
+Fortnite combines fast-paced action with building mechanics, making it different from many other battle royale games. Players search for weapons, gather materials, and build structures to defend themselves during battles. The game also includes creative modes where players can design their own maps and experiences.
 
-The main goal in Fortnite is to be the last player or team left standing. You start by jumping from the Battle Bus onto the island, where you collect weapons, shields, and supplies while staying inside the safe zone. As the match goes on, the storm gets smaller, making players move closer together.
+One of my favorite parts of Fortnite is playing with friends. Every match is different, and working together to survive makes the game even more enjoyable.
 
-### What I Enjoy
+---
 
-My favorite part of Fortnite is playing with friends. We usually work together, share loot, and try to win matches as a team. I also enjoy building because it adds another challenge to the game and lets players protect themselves or reach higher places during a fight.
+## Features
 
-## Features I Like
+- Battle Royale gameplay
+- Online multiplayer
+- Building mechanics
+- Frequent seasonal updates
+- Creative Mode
 
-- Playing with friends
-- Building during battles
-- Finding better weapons and gear
-- Completing quests and challenges
-- Trying new updates each season
+---
 
-> "Fortnite stays fun because every match is different, and there is always something new to try."
+## My Experience
 
-#### Image
+I have played Fortnite for about two years and enjoy it because every match feels different. Playing with friends makes the game even more fun, especially when we work together as a team. I like trying new strategies, exploring the map, and seeing the new content added each season. It is one of the games I can always return to for a fun challenge.
 
-![fortnite](images/fortnite.jpg)!]
-## Related Games
+> "Victory Royale is always better with friends."
 
-Fortnite is more competitive than [[minecraft]], but both games let players be creative in different ways. If I want a more relaxed experience, I usually play [[minecraft]]. When I want to explore a huge open world instead of competing against other players, I like playing [[the-legend-of-zelda-tears-of-the-kingdom]].
+![[../assets/fortnite.jpg]]
 
-#### Tips
+---
 
-Try not to get killed. That goes for me :) Have fun and build on!
+## Related Pages
+
+### Modern Games
+
+- [[minecraft]]
+- [[destiny]]
+- [[mario-kart-world]]
+
+### Genre
+
+- [[../Game-Genres/Action]]
+- [[../Game-Genres/first-person-shooters|First-Person Shooters]]
+
+### Console
+
+- [[../Game-Consoles/PlayStation 5]]
+
+### Developer
+
+- [[../Game-Developers/Epic Games]]
+
+### Gaming History
+
+- [[../Gaming-History/Esports]]
+
+### Return
+
+- [[index|Modern Games]]
+- [[../index|Operation Gamer Home]]
